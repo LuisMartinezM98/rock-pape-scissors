@@ -1,4 +1,4 @@
-# Rock pape scissors game
+# Rock paper scissors game
 
 ## To deploy the app:
 
